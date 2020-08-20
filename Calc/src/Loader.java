@@ -68,7 +68,7 @@ public abstract class Loader {
         roman.put(6, "VI");
         roman.put(7, "VII");
         roman.put(8, "VIII");
-        roman.put(9, "VIIII");
+        roman.put(9, "IX");
         roman.put(10, "X");
         roman.put(20, "XX");
         roman.put(30, "XXX");
